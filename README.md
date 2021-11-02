@@ -8,7 +8,7 @@
 - <b>Администрирование бота: дополнительные возможности у роли администратора</b>
 ## Как запустить?
 **Установить необходимые библиотеки** </br>
->pip install aiogram bs4 requests scapy wget argparse colorama humanfriendly
+>pip install request.txt
 </br>
 
 **config.py установить свои значения**
