@@ -1,0 +1,8 @@
+aiogram
+bs4
+requests
+scapy
+wget
+argparse
+colorama
+humanfriendly
